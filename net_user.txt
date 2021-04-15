@@ -1,0 +1,8 @@
+
+User accounts for \\ELS-PC
+
+-------------------------------------------------------------------------------
+Administrator            els                      eLS_Admin                
+els_user                 Guest                    
+The command completed successfully.
+

@@ -1,0 +1,149 @@
+
+
+Microsoft (R) Windows (R) Operating System Group Policy Result tool v2.0
+Copyright (C) Microsoft Corp. 1981-2001
+
+Created On 3/29/2021 at 10:18:38 PM
+
+
+RSOP data for els-PC\els_user on ELS-PC : Logging Mode
+-------------------------------------------------------
+
+OS Configuration:            Standalone Workstation
+OS Version:                  6.1.7601
+Site Name:                   N/A
+Roaming Profile:             N/A
+Local Profile:               C:\Users\els_user
+Connected over a slow link?: No
+
+
+USER SETTINGS
+--------------
+    
+    Last time Group Policy was applied: 3/25/2021 at 10:16:40 PM
+    Group Policy was applied from:      N/A
+    Group Policy slow link threshold:   500 kbps
+
+Microsoft (R) Windows (R) Operating System Group Policy Result tool v2.0
+Copyright (C) Microsoft Corp. 1981-2001
+
+Created On 3/29/2021 at 10:18:38 PM
+
+
+RSOP data for els-PC\els_user on ELS-PC : Logging Mode
+-------------------------------------------------------
+
+OS Configuration:            Standalone Workstation
+OS Version:                  6.1.7601
+Site Name:                   N/A
+Roaming Profile:             N/A
+Local Profile:               C:\Users\els_user
+Connected over a slow link?: No
+
+
+USER SETTINGS
+--------------
+    
+    Last time Group Policy was applied: 3/25/2021 at 10:16:40 PM
+    Group Policy was applied from:      N/A
+    Group Policy slow link threshold:   500 kbps
+    
+
+Microsoft (R) Windows (R) Operating System Group Policy Result tool v2.0
+Copyright (C) Microsoft Corp. 1981-2001
+
+Created On 3/29/2021 at 10:18:38 PM
+
+
+RSOP data for els-PC\els_user on ELS-PC : Logging Mode
+-------------------------------------------------------
+
+OS Configuration:            Standalone Workstation
+OS Version:                  6.1.7601
+Site Name:                   N/A
+Roaming Profile:             N/A
+Local Profile:               C:\Users\els_user
+Connected over a slow link?: No
+
+
+USER SETTINGS
+--------------
+    
+    Last time Group Policy was applied: 3/25/2021 at 10:16:40 PM
+    Group Policy was applied from:      N/A
+    Group Policy slow link threshold:   500 kbps
+    Domain Name:                        els-PC
+    Domain Type:                        <Local Computer>
+    
+    Applied Group Policy Objects
+    -----------------------------
+        N/A
+
+    The following GPOs were not applied because they were filtered out
+    -------------------------------------------------------------------
+        Local Group Policy
+            Filtering:  Not Applied (Empty)
+
+    The user is a part of the following security groups
+    ---------------------------------------------------
+        None
+        Everyone
+        BUILTIN\Users
+        NT AUTHORITY\INTERACTIVE
+        CONSOLE LOGON
+        NT AUTHORITY\Authenticated Users
+        This Organization
+        LOCAL
+        NTLM Authentication
+        High Mandatory Level
+        
+    The user has the following security privileges
+    ----------------------------------------------
+
+
+    Resultant Set Of Policies for User
+    -----------------------------------
+
+        Software Installations
+        ----------------------
+            N/A
+
+        Logon Scripts
+        -------------
+            N/A
+
+        Logoff Scripts
+        --------------
+            N/A
+
+        Public Key Policies
+        -------------------
+            N/A
+
+        Administrative Templates
+        ------------------------
+            N/A
+
+        Folder Redirection
+        ------------------
+            N/A
+
+        Internet Explorer Browser User Interface
+        ----------------------------------------
+            N/A
+
+        Internet Explorer Connection
+        ----------------------------
+            N/A
+
+        Internet Explorer URLs
+        ----------------------
+            N/A
+
+        Internet Explorer Security
+        --------------------------
+            N/A
+
+        Internet Explorer Programs
+        --------------------------
+            N/A

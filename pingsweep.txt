@@ -1,0 +1,18 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-01 03:20 EDT
+Nmap scan report for 10.50.96.5
+Host is up (0.37s latency).
+Nmap scan report for 10.50.96.15
+Host is up (0.34s latency).
+Nmap scan report for 10.50.97.5
+Host is up (0.20s latency).
+Nmap scan report for 10.50.97.6
+Host is up (0.18s latency).
+Nmap scan report for 10.50.97.15
+Host is up (0.34s latency).
+Nmap scan report for 10.50.97.17
+Host is up (0.25s latency).
+Nmap scan report for 10.50.97.51
+Host is up (0.21s latency).
+Nmap scan report for 10.50.97.90
+Host is up (0.19s latency).
+Nmap done: 512 IP addresses (8 hosts up) scanned in 25.41 seconds

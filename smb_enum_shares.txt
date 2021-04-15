@@ -1,0 +1,85 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-01 18:58 EDT
+Nmap scan report for 10.50.97.1
+Host is up (0.23s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+53/tcp  open  domain
+443/tcp open  https
+
+Nmap scan report for 10.50.97.5
+Host is up (0.28s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Host script results:
+| smb-enum-shares: 
+|   note: ERROR: Enumerating shares failed, guessing at common ones (NT_STATUS_ACCESS_DENIED)
+|   account_used: <blank>
+|   \\10.50.97.5\ADMIN$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|     Anonymous access: <none>
+|   \\10.50.97.5\C$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|     Anonymous access: <none>
+|   \\10.50.97.5\IPC$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|_    Anonymous access: READ
+
+Nmap scan report for 10.50.97.8
+Host is up (0.27s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+3389/tcp open  ms-wbt-server
+
+Host script results:
+| smb-enum-shares: 
+|   note: ERROR: Enumerating shares failed, guessing at common ones (NT_STATUS_ACCESS_DENIED)
+|   account_used: <blank>
+|   \\10.50.97.8\ADMIN$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|     Anonymous access: <none>
+|   \\10.50.97.8\C$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|     Anonymous access: <none>
+|   \\10.50.97.8\IPC$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|_    Anonymous access: READ
+
+Nmap scan report for 10.50.97.14
+Host is up (0.25s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+3389/tcp open  ms-wbt-server
+
+Host script results:
+| smb-enum-shares: 
+|   note: ERROR: Enumerating shares failed, guessing at common ones (NT_STATUS_ACCESS_DENIED)
+|   account_used: <blank>
+|   \\10.50.97.14\ADMIN$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|     Anonymous access: <none>
+|   \\10.50.97.14\C$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|     Anonymous access: <none>
+|   \\10.50.97.14\IPC$: 
+|     warning: Couldn't get details for share: NT_STATUS_ACCESS_DENIED
+|_    Anonymous access: READ
+
+Nmap scan report for 10.50.97.21
+Host is up (0.25s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+21/tcp open  ftp
+
+Nmap done: 5 IP addresses (5 hosts up) scanned in 460.22 seconds

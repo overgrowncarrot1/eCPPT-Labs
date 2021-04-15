@@ -1,0 +1,32 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       720
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING       388
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING       808
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING       868
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING       492
+  TCP    0.0.0.0:49156          0.0.0.0:0              LISTENING       292
+  TCP    0.0.0.0:49157          0.0.0.0:0              LISTENING       500
+  TCP    172.50.50.10:139       0.0.0.0:0              LISTENING       4
+  TCP    172.50.50.10:4450      172.50.50.100:38265    ESTABLISHED     480
+  TCP    [::]:135               [::]:0                 LISTENING       720
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:49152             [::]:0                 LISTENING       388
+  TCP    [::]:49153             [::]:0                 LISTENING       808
+  TCP    [::]:49154             [::]:0                 LISTENING       868
+  TCP    [::]:49155             [::]:0                 LISTENING       492
+  TCP    [::]:49156             [::]:0                 LISTENING       292
+  TCP    [::]:49157             [::]:0                 LISTENING       500
+  UDP    0.0.0.0:123            *:*                                    964
+  UDP    0.0.0.0:500            *:*                                    868
+  UDP    0.0.0.0:4500           *:*                                    868
+  UDP    0.0.0.0:5355           *:*                                    1068
+  UDP    172.50.50.10:137       *:*                                    4
+  UDP    172.50.50.10:138       *:*                                    4
+  UDP    [::]:123               *:*                                    964
+  UDP    [::]:500               *:*                                    868
+  UDP    [::]:4500              *:*                                    868
+  UDP    [::]:5355              *:*                                    1068

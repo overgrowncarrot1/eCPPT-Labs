@@ -1,0 +1,10 @@
+Date:       2021-03-30.01:18:28
+Running as: els-PC\els_user
+Host:       ELS-PC
+OS:         Windows 7 (6.1 Build 7601, Service Pack 1).
+
+
+
+This is a VMware Workstation/Fusion Virtual Machine
+
+UAC is Disabled

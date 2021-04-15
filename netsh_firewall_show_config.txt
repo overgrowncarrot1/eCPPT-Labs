@@ -1,0 +1,65 @@
+
+Domain profile configuration:
+-------------------------------------------------------------------
+
+Domain profile configuration:
+-------------------------------------------------------------------
+Operational mode                  = Enable
+Exception mode                    = Enable
+Multicast/broadcast response mode = Enable
+Notification mode                 = Enable
+
+Allowed programs configuration for Domain profile:
+Mode     Traffic direction    Name / Program
+-------------------------------------------------------------------
+
+Port configuration for Domain profile:
+Port   Protocol  Mode    Traffic direction     Name
+-------------------------------------------------------------------
+
+ICMP configuration for Domain profile:
+Mode     Type  Description
+-------------------------------------------------------------------
+Enable   2     Allow outbound packet too big
+
+Standard profile configuration (current):
+-------------------------------------------------------------------
+Operational mode                  = Disable
+Exception mode                    = Enable
+Multicast/broadcast response mode = Enable
+Notification mode                 = Enable
+
+Service configuration for Standard profile:
+Mode     Customized  Name
+-------------------------------------------------------------------
+Enable   No          Network Discovery
+
+Allowed programs configuration for Standard profile:
+Mode     Traffic direction    Name / Program
+-------------------------------------------------------------------
+Enable   Inbound              zizqpjmx.exe / C:\users\els\appdata\local\temp\rad2cd25.tmp\zizqpjmx.exe
+
+Port configuration for Standard profile:
+Port   Protocol  Mode    Traffic direction     Name
+-------------------------------------------------------------------
+
+ICMP configuration for Standard profile:
+Mode     Type  Description
+-------------------------------------------------------------------
+Enable   2     Allow outbound packet too big
+
+Log configuration:
+-------------------------------------------------------------------
+File location   = C:\Windows\system32\LogFiles\Firewall\pfirewall.log
+Max file size   = 4096 KB
+Dropped packets = Disable
+Connections     = Disable
+
+IMPORTANT: Command executed successfully.
+However, "netsh firewall" is deprecated;
+use "netsh advfirewall firewall" instead.
+For more information on using "netsh advfirewall firewall" commands
+instead of "netsh firewall", see KB article 947709
+at http://go.microsoft.com/fwlink/?linkid=121488 .
+
+

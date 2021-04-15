@@ -1,0 +1,7 @@
+
+Interface: 172.50.50.10 --- 0xb
+  Internet Address      Physical Address      Type
+  172.50.50.100         8e-47-b8-97-8f-bd     dynamic   
+  172.50.50.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    

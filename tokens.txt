@@ -1,0 +1,30 @@
+****************************
+  List of Available Tokens
+****************************
+
+User Delegation Tokens Available 
+======================================== 
+els-PC\els_user
+
+
+User Impersonation Tokens Available 
+======================================== 
+No tokens available
+
+Group Delegation Tokens Available 
+======================================== 
+BUILTIN\Users
+
+NT AUTHORITY\Authenticated Users
+
+NT AUTHORITY\INTERACTIVE
+
+NT AUTHORITY\NTLM Authentication
+
+NT AUTHORITY\This Organization
+
+
+Group Impersonation Tokens Available 
+======================================== 
+No tokens available
+

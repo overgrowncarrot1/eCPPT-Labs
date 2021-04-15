@@ -1,0 +1,105 @@
+
+Image Name                     PID Services                                    
+========================= ======== ============================================
+System Idle Process              0 N/A                                         
+System                           4 N/A                                         
+smss.exe                       244 N/A                                         
+csrss.exe                      336 N/A                                         
+wininit.exe                    388 N/A                                         
+csrss.exe                      396 N/A                                         
+winlogon.exe                   432 N/A                                         
+services.exe                   492 N/A                                         
+lsass.exe                      500 SamSs                                       
+lsm.exe                        512 N/A                                         
+svchost.exe                    616 DcomLaunch, PlugPlay, Power                 
+vmacthlp.exe                   676 VMware Physical Disk Helper Service         
+svchost.exe                    720 RpcEptMapper, RpcSs                         
+svchost.exe                    808 Audiosrv, Dhcp, eventlog, lmhosts, wscsvc   
+svchost.exe                    844 AudioEndpointBuilder, CscService, Netman,   
+                                   TrkWks, UxSms, WdiSystemHost                
+svchost.exe                    868 AeLookupSvc, Browser, gpsvc, IKEEXT,        
+                                   iphlpsvc, LanmanServer, ProfSvc, Schedule,  
+                                   SENS, ShellHWDetection, Themes, Winmgmt,    
+                                   wuauserv                                    
+svchost.exe                    964 EventSystem, netprofm, nsi, W32Time,        
+                                   WdiServiceHost, WinHttpAutoProxySvc         
+svchost.exe                   1068 CryptSvc, Dnscache, LanmanWorkstation,      
+                                   NlaSvc                                      
+spoolsv.exe                   1212 Spooler                                     
+svchost.exe                   1252 BFE, DPS, MpsSvc                            
+openvpnserv.exe               1456 OpenVPNService                              
+dwm.exe                       1552 N/A                                         
+taskhost.exe                  1572 N/A                                         
+VGAuthService.exe             1644 VGAuthService                               
+explorer.exe                  1652 N/A                                         
+vmtoolsd.exe                  1788 VMTools                                     
+vmtoolsd.exe                  1844 N/A                                         
+wscript.exe                   1888 N/A                                         
+svchost.exe                    292 PolicyAgent                                 
+SVpDdVhFuic.exe                480 N/A                                         
+dllhost.exe                   1640 COMSysApp                                   
+msdtc.exe                      288 MSDTC                                       
+rundll32.exe                  1768 N/A                                         
+dinotify.exe                  2104 N/A                                         
+WmiPrvSE.exe                  2232 N/A                                         
+SearchIndexer.exe             2308 WSearch                                     
+WmiPrvSE.exe                  2584 N/A                                         
+svchost.exe                   3032 FontCache                                   
+svchost.exe                   3072 WinDefend                                   
+WmiApSrv.exe                  2768 wmiApSrv                                    
+netsh.exe                     4044 N/A                                         
+conhost.exe                   4040 N/A                                         
+tasklist.exe                  2524 N/A                                         
+
+Image Name                     PID Services                                    
+========================= ======== ============================================
+System Idle Process              0 N/A                                         
+System                           4 N/A                                         
+smss.exe                       244 N/A                                         
+csrss.exe                      336 N/A                                         
+wininit.exe                    388 N/A                                         
+csrss.exe                      396 N/A                                         
+winlogon.exe                   432 N/A                                         
+services.exe                   492 N/A                                         
+lsass.exe                      500 SamSs                                       
+lsm.exe                        512 N/A                                         
+svchost.exe                    616 DcomLaunch, PlugPlay, Power                 
+vmacthlp.exe                   676 VMware Physical Disk Helper Service         
+svchost.exe                    720 RpcEptMapper, RpcSs                         
+svchost.exe                    808 Audiosrv, Dhcp, eventlog, lmhosts, wscsvc   
+svchost.exe                    844 AudioEndpointBuilder, CscService, Netman,   
+                                   TrkWks, UxSms, WdiSystemHost                
+svchost.exe                    868 AeLookupSvc, Browser, gpsvc, IKEEXT,        
+                                   iphlpsvc, LanmanServer, ProfSvc, Schedule,  
+                                   SENS, ShellHWDetection, Themes, Winmgmt,    
+                                   wuauserv                                    
+svchost.exe                    964 EventSystem, netprofm, nsi, W32Time,        
+                                   WdiServiceHost, WinHttpAutoProxySvc         
+svchost.exe                   1068 CryptSvc, Dnscache, LanmanWorkstation,      
+                                   NlaSvc                                      
+spoolsv.exe                   1212 Spooler                                     
+svchost.exe                   1252 BFE, DPS, MpsSvc                            
+openvpnserv.exe               1456 OpenVPNService                              
+dwm.exe                       1552 N/A                                         
+taskhost.exe                  1572 N/A                                         
+VGAuthService.exe             1644 VGAuthService                               
+explorer.exe                  1652 N/A                                         
+vmtoolsd.exe                  1788 VMTools                                     
+vmtoolsd.exe                  1844 N/A                                         
+wscript.exe                   1888 N/A                                         
+svchost.exe                    292 PolicyAgent                                 
+SVpDdVhFuic.exe                480 N/A                                         
+dllhost.exe                   1640 COMSysApp                                   
+msdtc.exe                      288 MSDTC                                       
+rundll32.exe                  1768 N/A                                         
+dinotify.exe                  2104 N/A                                         
+WmiPrvSE.exe                  2232 N/A                                         
+SearchIndexer.exe             2308 WSearch                                     
+WmiPrvSE.exe                  2584 N/A                                         
+svchost.exe                   3032 FontCache                                   
+svchost.exe                   3072 WinDefend                                   
+WmiApSrv.exe                  2768 wmiApSrv                                    
+netsh.exe                     4044 N/A                                         
+conhost.exe                   4040 N/A                                         
+tasklist.exe                  2524 N/A                                         
+conhost.exe                   1544 N/A                                         

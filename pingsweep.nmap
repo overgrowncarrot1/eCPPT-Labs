@@ -1,0 +1,18 @@
+# Nmap 7.91 scan initiated Thu Apr  1 18:17:42 2021 as: nmap -sn -PS139,22,80,443,445 -n -oN pingsweep.nmap 10.50.97.0/24
+Nmap scan report for 10.50.97.1
+Host is up (0.19s latency).
+Nmap scan report for 10.50.97.2
+Host is up (0.19s latency).
+Nmap scan report for 10.50.97.5
+Host is up (0.37s latency).
+Nmap scan report for 10.50.97.8
+Host is up (0.37s latency).
+Nmap scan report for 10.50.97.14
+Host is up (0.36s latency).
+Nmap scan report for 10.50.97.21
+Host is up (0.18s latency).
+Nmap scan report for 10.50.97.107
+Host is up (0.20s latency).
+Nmap scan report for 10.50.97.142
+Host is up (0.19s latency).
+# Nmap done at Thu Apr  1 18:17:57 2021 -- 256 IP addresses (8 hosts up) scanned in 15.30 seconds
